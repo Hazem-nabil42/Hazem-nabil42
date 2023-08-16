@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js and Express and mongodp**
 
-- 💬 Ask me about **Frontend development, C++**
+- 💬 Ask me about **MERN Apps**
 
 - 📫 How to reach me **+201022876702**
 
