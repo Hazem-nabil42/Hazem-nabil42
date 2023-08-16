@@ -1,9 +1,8 @@
-<div>
-    <img src="https://media.tenor.com/GhwNgT8n134AAAAC/death-note-anime.gif" alt="">
-</div>
 
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
+
+<img src="https://media.tenor.com/GhwNgT8n134AAAAC/death-note-anime.gif" alt="Study" align="right" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-nabil42&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-nabil42" /> </p>
