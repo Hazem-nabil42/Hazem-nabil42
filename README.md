@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
-<img  align="right" width="400" alt="Coding" src="[https://media.tenor.com/YNqsJbmb_yMAAAAC/coding.gif](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)">
+<img  align="right" width="400" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-nabil42&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-nabil42" /> </p>
 
