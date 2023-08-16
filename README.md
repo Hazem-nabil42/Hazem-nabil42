@@ -70,3 +70,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazem-nabil42&show_icons=true&locale=en" alt="hazem-nabil42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazem-nabil42&" alt="hazem-nabil42" /></p>
+
+<div class="w-full md:w-8/12 justify-center flex flex-col flex-wrap md:my-4"><img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=Hazem-nabil42&amp;theme=midnight-purple&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""><img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazem-nabil42&amp;theme=midnight-purple&amp;hide_border=false" alt=""><img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazem-nabil42&amp;theme=midnight-purple&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt=""></div>
