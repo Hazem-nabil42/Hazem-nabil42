@@ -1,6 +1,6 @@
-<h1>
+<div>
     <img src="https://media.tenor.com/GhwNgT8n134AAAAC/death-note-anime.gif" alt="">
-</h1>
+</div>
 
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
