@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://media.tenor.com/Migbn5c0LIEAAAAC/death-note-kira.gif" alt="">
+    <img src="https://media.tenor.com/GhwNgT8n134AAAAC/death-note-anime.gif" alt="">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
