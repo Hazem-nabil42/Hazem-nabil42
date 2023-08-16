@@ -24,6 +24,7 @@
 <a href="https://www.hackerrank.com/@hazem_alieldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hazem_alieldin" height="30" width="40" /></a>
 <a href="https://discord.gg/DoMa#6950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DoMa#6950" height="30" width="40" /></a>
 
+<h2>Skills Set</h2>
 <table>
   <tbody><tr>
     <td>
@@ -82,10 +83,7 @@
     <td>
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></a>
     </td>
-  </tr>
-    <tr><td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb1a7dcb2d9726f163b572454b0dccc036e94c29702ee30fa55044aa9237df49/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f65736c696e742f65736c696e742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/fb1a7dcb2d9726f163b572454b0dccc036e94c29702ee30fa55044aa9237df49/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f65736c696e742f65736c696e742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="max-width: 100%;"></a>
-    </td>
+ 
   </tr>
 </tbody></table>
 
