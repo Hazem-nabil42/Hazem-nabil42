@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
-<img  align="right" width="300" alt="Coding" src="[https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif](https://image.myanimelist.net/ui/0qT9QmcJg2Dy_svwPLdkC6yI6egtgXY0s1S67HuKQDSxXyjiH3LH3HbvTW45ITTriL5xKnsChvXTv7v45dDXlEQYqeCPXa_exqVnGL-2RVsdwkRVMfnuzB4_ruDZEiVR)">
+<img  align="right" width="300" alt="Coding" src="[[https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif](https://image.myanimelist.net/ui/0qT9QmcJg2Dy_svwPLdkC6yI6egtgXY0s1S67HuKQDSxXyjiH3LH3HbvTW45ITTriL5xKnsChvXTv7v45dDXlEQYqeCPXa_exqVnGL-2RVsdwkRVMfnuzB4_ruDZEiVR)](https://i.pinimg.com/originals/0c/a8/96/0ca8968070257635299b1fe038384838.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-nabil42&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-nabil42" /> </p>
 
