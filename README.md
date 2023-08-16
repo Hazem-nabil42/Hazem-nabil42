@@ -1,4 +1,6 @@
-<img width="400" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" alt="">
+<div style="position: absolute; right: 80px; width: 400; height: 300; background-repeat: no-repeat; background-image: url(https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif);"></div>
+
+
 
 
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
