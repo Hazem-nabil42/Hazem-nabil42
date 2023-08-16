@@ -1,3 +1,4 @@
+![logo](https://github.com/Hazem-nabil42/Hazem-nabil42/blob/main/discord-welcome.gif)
 
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
