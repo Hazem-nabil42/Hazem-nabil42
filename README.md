@@ -1,9 +1,6 @@
-<div>
+<h1>
     <img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" alt="">
-</div>
-
-
-
+</h1>
 
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
