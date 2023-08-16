@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
-<img  align="right" width="400" alt="Coding" src="[[[https://media.tenor.com/7LAB1WbMURAAAAAM/website.gif](https://www.lambdatest.com/resources/images/news24.gif)](https://www.icegif.com/wp-content/uploads/2023/05/icegif-562.gif)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img  align="right" width="400" alt="Coding" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-nabil42&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-nabil42" /> </p>
 
