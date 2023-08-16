@@ -1,8 +1,8 @@
 
-<h1 style="display: flex; justify-content: center;">💫 Hi 👋, I'm Hazem Nabil<br><br>Full Stack MERN Developer </h1> <br> <br><br>🔭 I’m currently working on Personal Web App Project<br><br>🌱 I’m currently learning Node.js and Express and mongodb<br><br>💬 Ask me about Frontend development<br><br>📫 How to reach me +201022876702<br><br>⚡ Fun fact Yamete kudasai :)
+<h1 style="display: flex; justify-content: center;"> Hi 👋, I'm Hazem Nabil 💫 <br><br> Full Stack MERN Developer </h1> <br> <br><br>🔭 I’m currently working on Personal Web App Project<br><br>🌱 I’m currently learning Node.js and Express and mongodb<br><br>💬 Ask me about Frontend development<br><br>📫 How to reach me +201022876702<br><br>⚡ Fun fact Yamete kudasai :)
 
-<img style="width:400;" align="right" alt="coding" src="https://media.tenor.com/YNqsJbmb_yMAAAAC/coding.gif">
-
+<img style="height: 200; width: 400;" alt="coding" src="https://media.tenor.com/YNqsJbmb_yMAAAAC/coding.gif">
+<hr>
 
 
 ## 🌐 Socials:
