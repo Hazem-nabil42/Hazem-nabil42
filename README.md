@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Hazem Nabil<br><br>Full Stack MERN Developer<br> <img src="https://media.tenor.com/YNqsJbmb_yMAAAAC/coding.gif">  <br><br>🔭 I’m currently working on Personal Web App Project<br><br>🌱 I’m currently learning Node.js and Express and mongodb<br><br>💬 Ask me about Frontend development<br><br>📫 How to reach me +201022876702<br><br>⚡ Fun fact Yamete kudasai :)
+Hi 👋, I'm Hazem Nabil<br><br>Full Stack MERN Developer<br> <img width="400" align="right" alt="coding" src="https://media.tenor.com/YNqsJbmb_yMAAAAC/coding.gif">  <br><br>🔭 I’m currently working on Personal Web App Project<br><br>🌱 I’m currently learning Node.js and Express and mongodb<br><br>💬 Ask me about Frontend development<br><br>📫 How to reach me +201022876702<br><br>⚡ Fun fact Yamete kudasai :)
 
 
 ## 🌐 Socials:
