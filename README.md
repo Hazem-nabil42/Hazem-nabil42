@@ -1,4 +1,4 @@
-![logo](https://github.com/Hazem-nabil42/Hazem-nabil42/blob/main/anime_2.gif)
+![logo](https://cdn.pixabay.com/animation/2023/12/15/16/16/16-16-34-225_512.gif)
 
 <h1 align="center">Hi 👋, I'm Hazem Nabil</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
